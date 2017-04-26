@@ -1,0 +1,16 @@
+{
+  "name": "webCrawler",
+  "version": "0.1.0",
+  "description": "A web crawler application to search for search terms on a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Emerson",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "crawler": "^1.0.4",
+    "express": "^4.15.2"
+  }
+}
