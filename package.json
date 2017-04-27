@@ -1,6 +1,6 @@
 {
   "name": "webCrawler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A web crawler application to search for search terms on a website",
   "main": "index.js",
   "scripts": {
